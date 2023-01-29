@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://44.201.211.49:8081/repository/TD_release/</url>
+	      <url>http://3.143.0.63:8081/repository/deploy_to_webapp/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://44.201.211.49:8081/repository/TD_snapshot/</url>
+	      <url>http://3.143.0.63:8081/repository/deploy_to_webapp_snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
